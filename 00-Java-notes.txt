@@ -1,0 +1,16 @@
+=================================
+https://chortle.ccsu.edu/java5/Notes/chap09C/ch09C_2.html
+
+Primitive data types
+-small amount of memory
+
+Objects (data type of a class)
+-large chunk of memory
+=================================
+
+
+Primitive data types
+-byte, short, int, long, float, double, char and boolean
+
+Wrapper classes used on Primitive data types to wrap them into objects.
+-e.g.  Integer, Long, Float, Double Character, Boolean,
